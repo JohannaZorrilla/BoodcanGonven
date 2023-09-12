@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&display=swap');
+
+body{
+    margin: 0;
+    font-family:'DM Sans', sans-serif;
+}
+
+.banner{
+    background:#27C0EF;
+    height: 100vh !important;
+    display: flex;
+    justify-content: center;
+    width: 100%; 
+}
+
+.br-options{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    white-space: pre;
+}
+
+.btn-menu{
+    background: linear-gradient(#328BCB, #005490);
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: none;
+    border-radius: 4px;
+}
+
+.btn-banner{
+    background: white;
+    padding: 20px;
+    border: none;
+    border-radius: 4px;
+    color: #27C0EF;
+}
+
+.btn-2-banner{
+    color: white;
+    text-decoration: auto;
+    margin-left: 30px;
+    font-size: 16px;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.description{
+    color: white;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.description-btn{
+    text-decoration: auto;
+    color: white;
+}
+
+.item-menu{
+    font-size: 14px;
+    font-weight: 500;
+    color: white;
+    text-decoration: auto;
+}
+
+.main-title{
+    margin: auto;
+    color: white;
+    font-size: 64px;
+    font-weight: 700;
+}
+
+.menu{
+    background:#27C0EF; 
+}
+
+.text-description-columns{
+    margin-left: 140px;   
+}
+
+.imag-banner{
+    margin-top: 80px;
+}
+
