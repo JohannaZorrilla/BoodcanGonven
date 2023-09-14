@@ -84,6 +84,10 @@ body{
 }
 
 .imag-banner{
-    margin-top: 80px;
+    text-align: center;
+    width: 1067px;
+    height: 707px;
+    background-position:bottom;
+    
 }
 
