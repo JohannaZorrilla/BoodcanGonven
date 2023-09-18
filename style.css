@@ -98,7 +98,7 @@ margin-top: 60px;
 
 }
 
-.btn-feature{
+.btn{
     color: #04AADD;
     font-family: DM Sans;
     font-size: 16px;
@@ -108,7 +108,7 @@ margin-top: 60px;
     text-decoration: auto;
 
 }
-.title-feature{
+.title-h3{
     color: #034D82;
     font-family: DM Sans;
     font-size: 36px;
@@ -133,15 +133,54 @@ margin-top: 60px;
 .colum{
     display: flex;
     justify-content: center;
-    padding: 100px;
-    
+    padding: 100px;    
 }
 
 .colum-imag-feature1{
     width: 50%;
+    background-image: url(./imag/fondofeature.png);
+    background-repeat: no-repeat;
+    background-size: 400px;
+    margin-left: 100px;
 }
 
-.colum-description-feature2{
+.colum-description{
     width: 50%;
     margin-left: 100px;
+}
+
+.item{
+    color: #90A3B4;
+    font-family: DM Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.3px; 
+    list-style: none;
+    
+}
+
+.title{
+    color: #034D82;
+    font-family: DM Sans;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 52px; /* 144.444% */
+    letter-spacing: 0.3px;
+    margin-right: 300px ;
+    margin-top: 0;
+}
+
+.check-circle{
+    margin-right: 10px;
+}
+
+.phone{
+    width: 400px;
+}
+
+.macbook-imag{
+    width: 500px;
 }
