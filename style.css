@@ -50,10 +50,13 @@ body{
     justify-content: space-around;
 }
 
-.description{
-    color: white;
+.description-banner{
+    color: #FFF;
+    font-family: DM Sans;
     font-size: 16px;
-    font-weight: 300;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
 }
 
 .description-btn{
@@ -183,4 +186,81 @@ margin-top: 60px;
 
 .macbook-imag{
     width: 500px;
+}
+
+.title-centard{
+    color: #034D82;
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 52px; /* 144.444% */
+    letter-spacing: 0.3px;
+    margin: 5px;
+}
+
+.Track-any-hashtag{
+    background:#EFFBFF ;
+}
+
+.d-flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+
+}
+
+.sub-title{
+    color: #034D82;
+    font-family: DM Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px; /* 160% */
+    letter-spacing: 0.2px;
+}
+
+.background{
+    background: white;
+    border-radius: 8px;
+    width: 259px;
+    height: 350px;
+    flex-shrink: 0;  
+}
+
+.Track-any-hashtag{
+    height: 80vh;
+    background: #EFFBFF;
+    padding: 30px;
+}
+
+.content-track{
+    padding: 30px;
+}
+
+.description-track{
+    color: #8EA9C1;
+    font-family: DM Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 160% */
+    letter-spacing: 0.3px;
+}
+
+.content-track-centered{
+    color: #8EA9C1;
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 200% */
+    letter-spacing: 0.3px;
+    margin-left: 460px;
+    margin-right: 460px;
 }
