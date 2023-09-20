@@ -136,7 +136,8 @@ margin-top: 60px;
 .colum{
     display: flex;
     justify-content: center;
-    padding: 100px;    
+    padding: 50px;    
+    margin-top: 20px;
 }
 
 .colum-imag-feature1{
@@ -263,4 +264,49 @@ margin-top: 60px;
     letter-spacing: 0.3px;
     margin-left: 460px;
     margin-right: 460px;
+}
+
+.h2{
+    color: #034D82;
+    font-family: DM Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; /* 120% */
+    letter-spacing: 0.2px;
+}
+
+.testimony{
+    color: #90A3B4;
+    font-family: DM Sans;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 32px; /* 200% */
+    margin-right: 300px;
+    margin-right: 300px;
+}
+
+.title-testimony{
+    color: #034D82;
+    font-family: DM Sans;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 52px; /* 144.444% */
+    letter-spacing: 0.3px;
+}
+
+.section-testimony{
+    margin-left: 200px;
+}
+
+.description-testimony{
+    color: #90A3B4;
+    font-family: DM Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 200% */
+    letter-spacing: 0.3px; 
 }
