@@ -310,3 +310,77 @@ margin-top: 60px;
     line-height: 32px; /* 200% */
     letter-spacing: 0.3px; 
 }
+.content-call{
+    width: 50%;
+}
+.btn-call{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.container-call-to-action{
+    background-color: #00B8D9;
+    height: 50vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding-left: 60px;
+    border-radius: 20px;
+    
+}
+
+.ttl-call-to-action{
+    color: #FFF;
+    font-family: DM Sans;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 44px; /* 122.222% */
+    letter-spacing: 0.3px;
+}
+.info{
+    color: #FFF;
+    font-family: DM Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px; /* 228.571% */
+    letter-spacing: 0.3px;
+}
+
+.and-others{
+    color: #FFF;
+    font-family: DM Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px; /* 228.571% */
+    letter-spacing: 0.3px;
+    text-decoration-line: underline;
+    padding: 20px;
+    border: none;
+}
+
+.click-call{
+    color: #00B8D9;
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 16px;
+    font-weight: 500;
+    background: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+
+
+}
+
+.llamada-accion{
+    background-color: white;
+    padding: 150px 140px
+}
+
+.info-testimony{
+    align-content: center;
+}
