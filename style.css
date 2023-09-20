@@ -81,13 +81,19 @@ body{
 
 .text-description-columns{
     margin-left: 140px;   
-}
-
-.imag-banner{
-    text-align: center;
-    width: 1067px;
-    height: 707px;
-    background-position:bottom;
     
 }
 
+.text-description{
+    padding-top: 100px;
+}
+.imag-banner{
+margin-top: 60px;
+}
+
+.partners{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+
+}
